@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name" translatable="false">BoraDeVan</string>
+    <string name="title_activity_maps" translatable="false">BoraDeVan</string>
+
+    <string name="title_activity_boradevan">boradevan</string>
+    <string name="dummy_button">Bora de Van</string>
+    <string name="dummy_content">Bora\ndeVan</string>
+    <string name="pedir_van">Pedir Van</string>
+    <string name="button">Pedir Van</string>
+</resources>
